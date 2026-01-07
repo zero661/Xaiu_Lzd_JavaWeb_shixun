@@ -2,7 +2,8 @@ package com.lero.util;
 
 import java.sql.*;
 
-//工具类(创建)
+// 工具类(创建)
+// lzd:修改
 public class JDBCUtil {
     //获取数据库连接的方法
     public Connection getConn(){
